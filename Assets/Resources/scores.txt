@@ -1,0 +1,9 @@
+SHEEN 19
+sheen 29
+NAPOEAN 39
+napolean 29
+s 24
+e 5
+kar 30
+tar 90
+abc 90
